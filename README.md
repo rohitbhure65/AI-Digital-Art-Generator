@@ -5,6 +5,8 @@ The AI Digital Art Generator is a cutting-edge project developed using the MERN 
 
 production - https://ai-digital-art-generator.vercel.app/
 
+### [🚀 Presentaion and Video](https://www.youtube.com/watch?v=3LzZo4XrjYU)
+
 ## Screenshots
 
 Home Page
