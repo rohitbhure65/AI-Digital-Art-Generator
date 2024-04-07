@@ -130,3 +130,4 @@ CLOUDINARY_API_SECRET='YOUR_CLOUDINARY_API_SECRET_KEY'
 ## Team
 
 - [@rohitbhure65](https://www.github.com/rohitbhure65)
+- [@Saloni-Vyas](https://github.com/Saloni-Vyas)
