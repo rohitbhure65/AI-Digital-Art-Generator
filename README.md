@@ -24,7 +24,7 @@ Clone the project
 Go to the project client directory
 
 ```bash
-  cd AI-Image-GENERATOR/client
+  cd AI-Digital-Art-Generator/client
 ```
 
 Install dependencies
@@ -43,7 +43,7 @@ Start the clinet server
 Go to the project server directory
 
 ```bash
-  cd AI-Image-GENERATOR/server
+  cd AI-Digital-Art-Generator/server
 ```
 
 Install dependencies
@@ -76,7 +76,7 @@ open browser
 
 To run this project, you will need to add the following environment variables to your .env file
 
-make .env file inside AI-Image-GENERATOR/server
+make .env file inside AI-Digital-Art-Generator/server
 
 ```bash
 MONGODB_URL="YOUR_MONGODB_URL"
