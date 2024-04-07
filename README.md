@@ -18,7 +18,7 @@ Create Ai Digital Art
 Clone the project
 
 ```bash
-  git clone https://github.com/Saloni-Vyas/AI-Image-GENERATOR
+  git clone https://github.com/rohitbhure65/AI-Digital-Art-Generator
 ```
 
 Go to the project client directory
