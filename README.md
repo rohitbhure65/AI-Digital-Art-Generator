@@ -133,4 +133,4 @@ CLOUDINARY_API_SECRET='YOUR_CLOUDINARY_API_SECRET_KEY'
 
 - [@rohitbhure65](https://www.github.com/rohitbhure65)
 - [@Saloni-Vyas](https://github.com/Saloni-Vyas)
--.[@Hitesh7987322](https://github.com/Hitesh7987322/Hitesh7987322.git)
+-.[@Hitesh7987322](https://github.com/Hitesh7987322)
