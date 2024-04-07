@@ -9,11 +9,11 @@ production - https://ai-digital-art-generator.vercel.app/
 
 Home Page
 
-![App Screenshot](https://res.cloudinary.com/dmuwerefm/image/upload/v1712476127/qug3jhzmmuusqul98ov3.png)
+![App Screenshot](https://res.cloudinary.com/dmuwerefm/image/upload/v1712491519/tf4jldjrtxrzq6ubetmp.png)
 
 Create Ai Digital Art
 
-![App screenshot](https://res.cloudinary.com/dmuwerefm/image/upload/v1712475351/klsupjlvbeehrk4q5yyi.png)
+![App screenshot](https://res.cloudinary.com/dmuwerefm/image/upload/v1712491499/rnk5dqhgnchomreadgmg.png)
 
 
 ## Run Locally
