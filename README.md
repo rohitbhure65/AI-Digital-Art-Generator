@@ -122,3 +122,8 @@ CLOUDINARY_API_SECRET='YOUR_CLOUDINARY_API_SECRET_KEY'
 - [vite](https://www.npmjs.com/package/vite) - version 5.2.0
 
 ```
+
+
+## Team
+
+- [@rohitbhure65](https://www.github.com/rohitbhure65)
