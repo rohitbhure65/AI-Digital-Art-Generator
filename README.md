@@ -1,6 +1,9 @@
 
 # Ai Digital Art Generator
+
 The AI Digital Art Generator is a cutting-edge project developed using the MERN stack, harnessing the power of artificial intelligence to create stunning and realistic digital artworks in a matter of seconds. Leveraging the OpenAI API, this platform enables users to transform prompts and ideas into visually captivating digital art pieces with unparalleled realism.
+
+production - https://ai-digital-art-generator.vercel.app/
 
 ## Screenshots
 
