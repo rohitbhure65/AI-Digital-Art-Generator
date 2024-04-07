@@ -9,7 +9,7 @@ const router = express.Router();
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 router.route('/').get((req, res) => {
-  res.status(200).json({ message: 'Hello from DALL-E!' });
+  res.status(200).json({ message: 'Hello server' });
 });
 
 router.route('/').post(async (req, res) => {
