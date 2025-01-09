@@ -74,7 +74,7 @@ open browser
 
 **Client:** React, TailwindCSS
 
-**Server:** Node, Express, MongoDB, openai, cloudinary
+**Server:** Node, Express, MongoDB, openai
 
 
 ## Environment Variables
